@@ -1,6 +1,9 @@
 {
-  "homepage": "https://aarohipore.github.io/newroical/",
-  "name": "newroical",
+  "homepage": "{
+  "homepage": "https://aarohipore.github.io/roical/",
+  ...
+}",
+  "name": "roical",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
